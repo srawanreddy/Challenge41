@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Challenge4.1</string>
+    <string name="dial_text_hint">Enter your message here</string>
+    <string name="dial_button_text">Call</string>
+</resources>
